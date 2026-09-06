@@ -112,11 +112,8 @@ description = ""
 url = ""
 image = ""
 date = ""
-category = ""
+category = "Journalism"
 outlet = ""
-
-
-
 
 # ── A photo essay stored right here on your site ────────────
 #
@@ -160,7 +157,6 @@ description = ""
 video = ""
 date = ""
 category = "Video"
-
 
 # ============================================================
 #  OPTIONAL EXTRAS — colors and fonts
