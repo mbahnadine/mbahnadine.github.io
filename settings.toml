@@ -18,7 +18,7 @@
 name = "Nadine Mbah"                # ← Required. Everything else is optional.
 
 # A short phrase describing you. Shows up big at the top of most templates.
-tagline = "Multimedia Journalist uncovering underreported stories and using evidence-driven storytelling to question systems, inform communities, "
+tagline = "Multimedia Journalist uncovering underreported stories and using evidence-driven storytelling to question systems "
 
 location = "Berkeley, California"
 
@@ -44,7 +44,7 @@ employer = "Richmond Confidential"      # Where you work, intern, or freelance m
 #   "signal"     – huge bold headline, then a bright yellow band
 #   "harbor"     – deep teal with a portrait sidebar and serif type
 
-template = "newsprint"
+template = "bloom"
 
 # ── How people reach you ────────────────────────────────────
 
