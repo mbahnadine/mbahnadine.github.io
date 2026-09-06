@@ -54,7 +54,7 @@ phone = ""                          # e.g. "(510) 555-0123" — or leave empty
 # Paste any social media links here, one per line between the brackets.
 # The right icon appears automatically.
 socials = [
-  "hhttps://www.linkedin.com/in/nadine-mbah",
+  "www.linkedin.com/in/nadine-mbah",
   "https://www.facebook.com/mbahnadineabefoin",
   "https://www.instagram.com/nadine_mbah",
 ]
