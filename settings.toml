@@ -44,7 +44,7 @@ employer = "Richmond Confidential"      # Where you work, intern, or freelance m
 #   "signal"     – huge bold headline, then a bright yellow band
 #   "harbor"     – deep teal with a portrait sidebar and serif type
 
-template = "bloom"
+template = "harbor"
 
 # ── How people reach you ────────────────────────────────────
 
@@ -86,7 +86,7 @@ When I’m not reporting, you’ll find me wondering why things are the way they
 """
 
 # Optional extra line at the bottom of every page.
-footer = "Stories Told. Voices Amplified"
+footer = "Stories Told. Voices Amplified. Narratives Challenged"
 
 
 # ============================================================
