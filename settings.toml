@@ -18,7 +18,7 @@
 name = "Nadine Mbah"                # ← Required. Everything else is optional.
 
 # A short phrase describing you. Shows up big at the top of most templates.
-tagline = "Multimedia Journalist uncovering underreported stories and using evidence-driven storytelling to question systems "
+tagline = "Multimedia Journalist using evidence-driven storytelling to uncover underreported stories"
 
 location = "Berkeley, California"
 
