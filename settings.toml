@@ -56,7 +56,7 @@ phone = ""                          # e.g. "(510) 555-0123" — or leave empty
 socials = [
   "https://www.instagram.com/nadine_mbah",
   "https://www.facebook.com/mbahnadineabefoin",
-  "hhttps://www.linkedin.com/in/nadine-mbah",
+  "https://www.linkedin.com/in/nadine-mbah",
 ]
 
 # ── Photos and files ────────────────────────────────────────
@@ -165,7 +165,7 @@ category = ""
 
 [[work]]
 title = ""
-description = "A"
+description = ""
 video = ""
 date = " "
 category = ""
