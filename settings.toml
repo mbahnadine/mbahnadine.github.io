@@ -113,8 +113,6 @@ date = ""
 category = ""
 outlet = ""
 
-
-
 [[work]]
 title = "Photojournalism Assignment"
 description = "Photo assignment from UC Berkeley Journalism School."
@@ -130,7 +128,6 @@ photos = [
   "media/photo-assignment/portrait.jpg | Portrait",
   "media/photo-assignment/moment.jpg | Moment",
 ]
-
 
 # ── A photo essay stored right here on your site ────────────
 #
